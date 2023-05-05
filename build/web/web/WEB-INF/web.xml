@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
          version="4.0">
 
-    <context-root>/JSP_Assignment_2</context-root>
+    <context-root>/final_project</context-root>
 
     <class-loader delegate="true"/>
     <jsp-config>
